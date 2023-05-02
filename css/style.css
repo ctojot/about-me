@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(51, 222, 157);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px; 
+}
+
+footer {
+    padding-top: 40px;
+    padding-left: 70px;
+}

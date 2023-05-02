@@ -10,11 +10,12 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Links and Resources
 
-* [submission PR](http://xyz.com)
+* [submission](hundo.png)
 * Any Links you used as reference
 
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+[Accessibility Report](hungo.png)
 
 ### Reflections and Comments
+
