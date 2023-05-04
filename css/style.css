@@ -24,3 +24,8 @@ footer {
     padding-top: 40px;
     padding-left: 70px;
 }
+
+ol {
+    list-style-type: normal;
+    list-style-position: outside;
+}
