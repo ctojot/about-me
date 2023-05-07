@@ -13,12 +13,12 @@ Gerald Bruno
 
 ### Links and Resources
 
-* [submission](hundo.png)
+* 
 * Any Links you used as reference
 
 ### Lighthouse Accessibility Report Score
 
-[Accessibility Report](hungo.png)
+[Accessibility Report](hundo.png)
 
 ### Reflections and Comments
 
