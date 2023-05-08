@@ -22,3 +22,4 @@ Gerald Bruno
 
 ### Reflections and Comments
 
+    

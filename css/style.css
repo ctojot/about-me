@@ -18,6 +18,8 @@ p {
     padding-top: 30px;
     padding-left: 70px;
     padding-right: 70px; 
+    padding-bottom: 40px;
+    line-height: 1.6;
 }
 
 footer {
@@ -26,6 +28,37 @@ footer {
 }
 
 ol {
-    list-style-type: normal;
-    list-style-position: outside;
+    list-style-type: decimal;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px; 
+    padding-bottom: 40px;
+}
+
+ul {
+    list-style-type: square; 
+    font-size: 20px;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px; 
+    padding-bottom: 40px;
+}
+
+#lists{
+    display: flex;
+    justify-content: space-evenly;
+
+} 
+
+h2 {
+    font-size: 30px;
+    font-style: bold;
+    padding-bottom: 20px;
+}
+
+li {
+    font-size: 16px;
 }
